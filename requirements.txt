@@ -1,0 +1,17 @@
+numpy
+xlrd
+numpy
+pandas
+isodate
+asyncio
+aiohttp
+aiofiles
+requests
+selenium
+openpyxl
+nest_asyncio
+beautifulsoup4
+webdriver_manager
+mysql-connector-python
+google-api-python-client
+google-auth-oauthlib
